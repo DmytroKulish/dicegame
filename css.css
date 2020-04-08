@@ -1,0 +1,29 @@
+ body{
+  background-color:#d2c6b2;
+}
+h1{
+  color:#442727;
+  font-size:6rem;
+  text-align: center;
+  font-family:"Slackey";
+}
+p{
+  color:#442727;
+  font-size: 3rem;
+    font-family:"Slackey";
+    font-style: italic;
+}
+img{
+  width:80%;
+}
+.dice{
+  text-align: center;
+  display:inline-block;
+  margin-left: 2%;
+    margin-right: 2%;
+}
+.container{
+  width:85%;
+  text-align: center;
+  margin:2% 8% 2%;
+}
